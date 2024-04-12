@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485819657399",
+    "project_id": "advice-ally-demo",
+    "storage_bucket": "advice-ally-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485819657399:android:dbd522e71656107cfdf132",
+        "android_client_info": {
+          "package_name": "com.example.advice_ally_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU8Ma2Vd7ga5_Vukfd2JAdDJ2ccoECeKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
